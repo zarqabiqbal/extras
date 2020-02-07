@@ -22,3 +22,6 @@ do
   echo " "
 
 done 
+
+
+#bash script for reading the database in linux
