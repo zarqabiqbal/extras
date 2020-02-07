@@ -1,5 +1,7 @@
 #!/usr/bin/python
 
+##python script for changing the name in folder to 1,2,3,4....... with same extension
+
 import os,sys
 
 
@@ -37,3 +39,4 @@ for j in str_array:
 
 ###   How To Use
 ##    python rename.py /path/to/folder
+
